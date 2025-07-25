@@ -74,7 +74,7 @@
 
 `K023_조정현`
 
-<img src="https://postfiles.pstatic.net/MjAyNTA3MjVfMTIy/MDAxNzUzNDIzNDQyNDM2.zkiylezkaKaLWWD7mJRfXGHlVK-a09URdPe90fnN7tIg.IF7AviQ1McPM_D0e_6csTlD2Gzonj8-rD_epPCSQodIg.PNG/ChatGPT_Image_2025%EB%85%84_7%EC%9B%94_25%EC%9D%BC_%EC%98%A4%ED%9B%84_03_03_51.png?type=w966" alt="" width="600"/>
+<img src="https://postfiles.pstatic.net/MjAyNTA3MjVfMTIy/MDAxNzUzNDIzNDQyNDM2.zkiylezkaKaLWWD7mJRfXGHlVK-a09URdPe90fnN7tIg.IF7AviQ1McPM_D0e_6csTlD2Gzonj8-rD_epPCSQodIg.PNG/ChatGPT_Image_2025%EB%85%84_7%EC%9B%94_25%EC%9D%BC_%EC%98%A4%ED%9B%84_03_03_51.png?type=w966" alt="" width="350"/>
 
 ### 배경
 하루 학습이 끝나면, 머릿속은 복잡한데 노트나 정리는 제대로 안 되어 있는 경우가 많습니다.     
