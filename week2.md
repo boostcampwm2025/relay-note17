@@ -163,11 +163,16 @@ AI를 활용해 학습 내용을 자동으로 핵심 정리하고,
 
 ### 퀘스트 수행 방식
 
+![프롬프트 예시](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fb4PSED%2FbtsPALdBSuE%2FAAAAAAAAAAAAAAAAAAAAALrNVh7fVO0r5-8619M4JurUseGuRuQihmWzPcC5egNL%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1753973999%26allow_ip%3D%26allow_referer%3D%26signature%3Dg%252FqenSMw4dlcQd4cAIe%252FNGCtopc%253D)
+
 1. 매일 공개되는 미션 내용과 관련된 키워드나, 평소 관심 있는 주제를 AI에게 전달하고, 
 2. AI에게 해당 주제에 대해 의도적으로 트린 설명을 포함한 문장을 생성해달라고 요청합니다.<br/>
   (이 때 반드시 AI가 어느 부분이 틀렸는지 절대 알려주지 않게 요청해주세요 !!)
 3. 퀘스트 수행자는 스스로 문장의 오류를 분석해 올바른 설명으로 직접 수정하고,
 4. AI에게 올바른 설명이 맞는지 검토 받습니다.
+
+예시 사진에서는 RR의 설명이 아닌 SJF와 Priorty 방식을 혼합해 설명하고 있죠!<br/>
+따라서 `"라운드 로빈 스케줄링은 각 프로세스에 동일한 시간 할당량을 부여해 순환적으로 실행하는 선점형 스케줄링 기법입니다!"`로 고쳐볼 수 있겠습니다 ~
 
 ### 퀘스트 달성 조건
 
