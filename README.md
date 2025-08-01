@@ -18,3 +18,6 @@
 
 
 ### Q4. AI로 문서화 다이어그램 생성하기
+
+
+자세한 내용은 [여기](https://github.com/boostcampwm2025/relay-note17/blob/main/week3.md)로
