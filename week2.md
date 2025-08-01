@@ -204,9 +204,9 @@ AI를 활용해 학습 내용을 자동으로 핵심 정리하고,
 
 - **수행 결과** :
 
-  <img width="733" height="211" alt="image" src="https://gist.github.com/user-attachments/assets/b1e47ec4-024c-47a2-955d-685cc23e2543" />
+  ![Image](https://gist.github.com/user-attachments/assets/b1e47ec4-024c-47a2-955d-685cc23e2543)
 
-  <img width="460" height="324" alt="image" src="https://gist.github.com/user-attachments/assets/59b5e90f-571e-4af0-9b50-b638a6b5207c" />
+  ![Image](https://gist.github.com/user-attachments/assets/59b5e90f-571e-4af0-9b50-b638a6b5207c)
 
 
 - **느낀점/배운점** :
