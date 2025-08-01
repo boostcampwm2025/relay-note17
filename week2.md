@@ -204,10 +204,9 @@ AI를 활용해 학습 내용을 자동으로 핵심 정리하고,
 
 - **수행 결과** :
 
-  ![Image](https://gist.github.com/user-attachments/assets/b1e47ec4-024c-47a2-955d-685cc23e2543)
-
-  ![Image](https://gist.github.com/user-attachments/assets/59b5e90f-571e-4af0-9b50-b638a6b5207c)
-
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/d1916265-643a-4d9f-b73f-d9edf5a1b631" />
+   <br>
+  <img width="300" alt="image" src="https://github.com/user-attachments/assets/31540bea-93af-4e9d-934c-9cfeb8611349" />
 
 - **느낀점/배운점** :
   - 학습 전에 AI에게 먼저 학습 범위와 키워드 제안을 받아보는 방식은 좋았음. 막연하게 ‘공부부터 시작해야겠다’는 흐름에서 벗어나, 목표 지향적인 학습 흐름을 만들 수 있었음.
